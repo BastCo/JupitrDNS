@@ -18,52 +18,57 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 Our redundant infrastructure is located in New York, Las Vegas and Luxembourg. 
 
-# Anycast - Recommended
+## Anycast - Recommended
 
-#### IPv4
-##### 198.251.90.137
+**IPv4**
+<br />198.251.90.137
 
-#### DNS-over-HTTPS
-##### dns.jupitrdns.com/dns-query
+**DNS-over-HTTPS**
+<br />https://dns.jupitrdns.com/dns-query
 
-#### DNS-over-TLS
-##### dns.jupitrdns.com
+**DNS-over-TLS**
+<br />tls://dns.jupitrdns.com
 
 ## New York
 
-#### IPv4
-##### 198.98.48.187
-##### 198.98.52.76
+**IPv4**
+<br />198.98.48.187
+<br />198.98.52.76
+<br />
+<br />
+**DNS-over-HTTPS**
+<br />https://dns-nyc.jupitrdns.com/dns-query
 
-#### DNS-over-HTTPS
-##### dns-nyc.jupitrdns.com/dns-query
-
-#### DNS-over-TLS
-##### dns-nyc.jupitrdns.com
-
+**DNS-over-TLS**
+<br />tls://dns-nyc.jupitrdns.com
+<br />
+<br />
 ## Las Vegas
 
-#### IPv4
-##### 209.141.48.124
-##### 205.185.119.215
+**IPv4**
+<br />209.141.48.124
+<br />205.185.119.215
+<br />
+<br />
+**DNS-over-HTTPS**
+<br />https://dns-las.jupitrdns.com/dns-query
 
-#### DNS-over-HTTPS
-##### hdns-las.jupitrdns.com/dns-query
-
-#### DNS-over-TLS
-##### dns-las.jupitrdns.com
+**DNS-over-TLS**
+<br />tls://dns-las.jupitrdns.com
 
 ## Luxembourg
 
-#### IPv4
-##### 107.189.28.180
-##### 107.189.4.77
-
-#### DNS-over-HTTPS
-##### dns-lux.jupitrdns.com/dns-query
-
-#### DNS-over-TLS
-##### dns-lux.jupitrdns.com
+**IPv4**
+<br />107.189.28.180
+<br />107.189.4.77
+<br />
+<br />
+**DNS-over-HTTPS**
+<br />https://dns-lux.jupitrdns.com/dns-query
+<br />
+<br />
+**DNS-over-TLS**
+<br />tls://dns-lux.jupitrdns.com
 
 # Donations
 
