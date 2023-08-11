@@ -11,7 +11,7 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 # Blocklists
 
-Current Jupitr DNS blocklists
+[Current Jupitr DNS blocklists](https://raw.githubusercontent.com/BastCo/JupitrDNS/main/blocklists.txt)
 
 
 # Network
