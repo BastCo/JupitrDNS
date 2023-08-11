@@ -17,7 +17,8 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 # Network
 
 Our redundant infrastructure is located in New York, Las Vegas and Luxembourg. 
-
+<br />
+<br />
 ## Anycast - Recommended
 
 **IPv4**
@@ -28,7 +29,8 @@ Our redundant infrastructure is located in New York, Las Vegas and Luxembourg.
 
 **DNS-over-TLS**
 <br />tls://dns.jupitrdns.com
-
+<br />
+<br />
 ## New York
 
 **IPv4**
@@ -55,7 +57,8 @@ Our redundant infrastructure is located in New York, Las Vegas and Luxembourg.
 
 **DNS-over-TLS**
 <br />tls://dns-las.jupitrdns.com
-
+<br />
+<br />
 ## Luxembourg
 
 **IPv4**
