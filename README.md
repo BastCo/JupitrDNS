@@ -23,6 +23,7 @@ Our redundant infrastructure is located in New York, Las Vegas and Luxembourg.
 
 **IPv4**
 <br />198.251.90.137
+<br />198.251.90.144
 
 **DNS-over-HTTPS**
 <br />https://dns.jupitrdns.com/dns-query
