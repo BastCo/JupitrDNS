@@ -6,7 +6,7 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 - No logs
 - DNSSEC support
 - No EDNS Client Subnet
-- Servers in North America and Europe
+- Servers located in Montreal
 - Network status [stats.jupitrdns.com](https://stats.jupitrdns.com)
 
 # Blocklists
@@ -16,14 +16,14 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 # Network
 
-Our redundant infrastructure is located in New York, Las Vegas and Luxembourg. 
+Our redundant infrastructure is located in Montreal. 
 <br />
 <br />
-## Anycast - Recommended
+## Montreal
 
 **IPv4**
-<br />198.251.90.137
-<br />198.251.90.144
+<br />51.222.137.123
+<br />51.222.137.123
 
 **DNS-over-HTTPS**
 <br />https://dns.jupitrdns.com/dns-query
@@ -32,47 +32,6 @@ Our redundant infrastructure is located in New York, Las Vegas and Luxembourg.
 <br />tls://dns.jupitrdns.com
 <br />
 <br />
-## New York
-
-**IPv4**
-<br />198.98.48.187
-<br />198.98.52.76
-<br />
-<br />
-**DNS-over-HTTPS**
-<br />https://dns-nyc.jupitrdns.com/dns-query
-
-**DNS-over-TLS**
-<br />tls://dns-nyc.jupitrdns.com
-<br />
-<br />
-## Las Vegas
-
-**IPv4**
-<br />209.141.48.124
-<br />205.185.119.215
-<br />
-<br />
-**DNS-over-HTTPS**
-<br />https://dns-las.jupitrdns.com/dns-query
-
-**DNS-over-TLS**
-<br />tls://dns-las.jupitrdns.com
-<br />
-<br />
-## Luxembourg
-
-**IPv4**
-<br />107.189.28.180
-<br />107.189.4.77
-<br />
-<br />
-**DNS-over-HTTPS**
-<br />https://dns-lux.jupitrdns.com/dns-query
-<br />
-<br />
-**DNS-over-TLS**
-<br />tls://dns-lux.jupitrdns.com
 
 # Donations
 
