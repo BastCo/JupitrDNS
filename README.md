@@ -7,7 +7,7 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 - DNSSEC support
 - No EDNS Client Subnet
 - Servers located in Montreal
-- Network status [stats.jupitrdns.com](https://stats.jupitrdns.com)
+- Network status [here](https://stats.uptimerobot.com/6ppBEFVo95)
 
 # Blocklists
 
