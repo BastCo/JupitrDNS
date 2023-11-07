@@ -22,8 +22,8 @@ Our redundant infrastructure is located in Montreal.
 ## Montreal
 
 **IPv4**
-<br />51.79.24.147
-<br />51.79.27.218
+<br />148.113.137.198
+<br />148.113.139.179
 
 **DNS-over-HTTPS**
 <br />https://dns.jupitrdns.com/dns-query
