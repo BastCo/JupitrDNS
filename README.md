@@ -16,7 +16,7 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 # Network
 
-Our redundant infrastructure is located in Montreal. 
+Our redundant infrastructure is located in Montreal and South Carolina. 
 <br />
 <br />
 ## North America - East
