@@ -22,7 +22,7 @@ Our redundant infrastructure is located in Montreal and South Carolina.
 ## North America - East
 
 **IPv4**
-<br />35.211.104.234
+<br />35.211.86.69
 <br />35.215.18.94
 
 **DNS-over-HTTPS**
