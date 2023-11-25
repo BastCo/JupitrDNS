@@ -30,6 +30,9 @@ Our redundant infrastructure is located in Montreal and South Carolina.
 
 **DNS-over-TLS**
 <br />tls://dns.jupitrdns.com
+
+**DNS-over-QUIC**
+<br />quic://dns.jupitrdns.com
 <br />
 <br />
 
