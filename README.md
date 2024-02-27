@@ -1,7 +1,7 @@
 
 # Jupitr DNS
 
-Jupitr DNS is a free hobby DNS service that blocks malicious sites.
+Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 - No logs
 - DNSSEC support
