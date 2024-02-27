@@ -19,11 +19,11 @@ Jupitr DNS is a free hobby DNS service that blocks ads, trackers and malware.
 Our redundant infrastructure is located in North America. 
 <br />
 <br />
-## Montreal
+## New York
 
 **IPv4**
-<br />148.113.139.108
-<br />148.113.143.126
+<br />154.53.49.107
+<br />154.53.49.245
 
 **DNS-over-HTTPS**
 <br />https://dns.jupitrdns.com/dns-query
