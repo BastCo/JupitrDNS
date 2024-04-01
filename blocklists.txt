@@ -3,5 +3,5 @@
 HaGeZi's Threat Intelligence Feeds
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 
-HaGeZi's Pro Blocklist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt
+HaGeZi's Normal DNS Blocklist
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
