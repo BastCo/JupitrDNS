@@ -22,8 +22,8 @@ Our redundant infrastructure is located in North America.
 ## New York
 
 **IPv4**
-<br />31.220.99.9
-<br />66.94.111.191
+<br />35.215.30.118
+<br />35.215.48.207
 
 **DNS-over-HTTPS**
 <br />https://dns.jupitrdns.com/dns-query
