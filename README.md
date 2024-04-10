@@ -16,10 +16,7 @@ JupitrDNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 # Network
 
-Our redundant infrastructure is located in North America. 
-<br />
-<br />
-## New York
+## Montreal
 
 **IPv4**
 <br />35.215.30.118
