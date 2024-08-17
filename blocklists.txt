@@ -1,5 +1,12 @@
 ## Lists
 
+# Malware filtering
+
+HaGeZi's Threat Intelligence Feeds
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
+
+# Malware + Ad + Tracker filtering
+
 HaGeZi's Threat Intelligence Feeds
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 
