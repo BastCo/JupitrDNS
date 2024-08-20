@@ -1,7 +1,7 @@
 
 # JupitrDNS
 
-JupitrDNS is a free hobby DNS service that blocks ads, trackers and malware.
+JupitrDNS is a free security focused DNS service that blocks malware.
 
 - No logs
 - DNSSEC support
@@ -15,10 +15,8 @@ JupitrDNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 # Servers
 
-## Malware filtering
-
 **IPv4**
-<br />155.248.231.103
+<br />155.248.232.226
 
 **DNS-over-HTTPS**
 <br />https://dns-sec.jupitrdns.com/dns-query
@@ -28,22 +26,6 @@ JupitrDNS is a free hobby DNS service that blocks ads, trackers and malware.
 
 **DNS-over-QUIC**
 <br />quic://dns-sec.jupitrdns.com
-<br />
-<br />
-
-## Malware + Ad + Tracker filtering
-
-**IPv4**
-<br />155.248.232.226
-
-**DNS-over-HTTPS**
-<br />https://dns-ads.jupitrdns.com/dns-query
-
-**DNS-over-TLS**
-<br />tls://dns-ads.jupitrdns.com
-
-**DNS-over-QUIC**
-<br />quic://dns-ads.jupitrdns.com
 <br />
 <br />
 
