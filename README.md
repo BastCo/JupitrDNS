@@ -20,13 +20,13 @@ JupitrDNS is a free security focused DNS service that blocks malware.
 <br />155.248.232.226
 
 **DNS-over-HTTPS**
-<br />https://dns-sec.jupitrdns.com/dns-query
+<br />https://dns.jupitrdns.com/dns-query
 
 **DNS-over-TLS**
-<br />tls://dns-sec.jupitrdns.com
+<br />tls://dns.jupitrdns.com
 
 **DNS-over-QUIC**
-<br />quic://dns-sec.jupitrdns.com
+<br />quic://dns.jupitrdns.com
 <br />
 <br />
 
