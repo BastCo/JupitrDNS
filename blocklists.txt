@@ -5,10 +5,5 @@
 HaGeZi's Threat Intelligence Feeds
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
 
-# Malware + Ad + Tracker filtering
-
-HaGeZi's Threat Intelligence Feeds
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt
-
-HaGeZi's Normal DNS Blocklist
-https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/multi.txt
+Quad9 
+https://www.quad9.net/service/threat-blocking
