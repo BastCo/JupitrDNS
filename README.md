@@ -6,7 +6,7 @@ JupitrDNS is a free security focused DNS service that blocks malware.
 - No Logs
 - DNSSEC Support
 - No EDNS Client Subnet
-- Fully Redundant High Availability Infrastructure:
+- Fully Redundant High Availability Infrastructure
 - Servers Located in Montreal, Canada
 - [Network Status](https://status.jupitrdns.com)
 
